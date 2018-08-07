@@ -1,0 +1,14 @@
+c:\users\vandalay\source\repos\CopyingDirectory\CopyingDirectory\bin\Debug\netcoreapp2.1\CopyingDirectory.deps.json
+c:\users\vandalay\source\repos\CopyingDirectory\CopyingDirectory\bin\Debug\netcoreapp2.1\CopyingDirectory.runtimeconfig.json
+c:\users\vandalay\source\repos\CopyingDirectory\CopyingDirectory\bin\Debug\netcoreapp2.1\CopyingDirectory.runtimeconfig.dev.json
+c:\users\vandalay\source\repos\CopyingDirectory\CopyingDirectory\bin\Debug\netcoreapp2.1\CopyingDirectory.dll
+c:\users\vandalay\source\repos\CopyingDirectory\CopyingDirectory\bin\Debug\netcoreapp2.1\CopyingDirectory.pdb
+c:\users\vandalay\source\repos\CopyingDirectory\CopyingDirectory\bin\Debug\netcoreapp2.1\CopyingLibrary.dll
+c:\users\vandalay\source\repos\CopyingDirectory\CopyingDirectory\bin\Debug\netcoreapp2.1\CopyingLibrary.pdb
+c:\users\vandalay\source\repos\CopyingDirectory\CopyingDirectory\obj\Debug\netcoreapp2.1\CopyingDirectory.csprojAssemblyReference.cache
+c:\users\vandalay\source\repos\CopyingDirectory\CopyingDirectory\obj\Debug\netcoreapp2.1\CopyingDirectory.csproj.CoreCompileInputs.cache
+c:\users\vandalay\source\repos\CopyingDirectory\CopyingDirectory\obj\Debug\netcoreapp2.1\CopyingDirectory.AssemblyInfoInputs.cache
+c:\users\vandalay\source\repos\CopyingDirectory\CopyingDirectory\obj\Debug\netcoreapp2.1\CopyingDirectory.AssemblyInfo.cs
+c:\users\vandalay\source\repos\CopyingDirectory\CopyingDirectory\obj\Debug\netcoreapp2.1\CopyingDirectory.csproj.CopyComplete
+c:\users\vandalay\source\repos\CopyingDirectory\CopyingDirectory\obj\Debug\netcoreapp2.1\CopyingDirectory.dll
+c:\users\vandalay\source\repos\CopyingDirectory\CopyingDirectory\obj\Debug\netcoreapp2.1\CopyingDirectory.pdb
